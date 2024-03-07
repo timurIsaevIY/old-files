@@ -1,0 +1,4 @@
+timur 0 1
+artem 1 2
+sasha s 3
+тимур 1 4

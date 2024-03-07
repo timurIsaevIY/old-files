@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\Client\Client\main.cpp(80,26): error C3861: setClientId: идентификатор не найден
+C:\Users\HP\source\repos\Client\Client\main.cpp(80,17): error C2512: Client: нет подходящего конструктора по умолчанию
+C:\Users\HP\source\repos\Client\Client\client.h(3,7): message : см. объявление "Client"
